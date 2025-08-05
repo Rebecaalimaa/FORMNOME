@@ -8,16 +8,16 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "space-around",
     alignItems: "center",
-    backgroundColor: "#efefef",
+    backgroundColor: "#e1e0faff",
   },
   title: {
     fontSize: 26,
-    color: "#AA2200",
+    color: "#585bfcff",
     fontWeight: "bold",
   },
   text: {
     fontSize: 20,
-    color: "#121212",
+    color: "#585bfcff",
   },
   input: {
     width: "80%",
