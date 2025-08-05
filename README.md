@@ -1,8 +1,6 @@
 # Form Nome 
 |![Print do resultado](./tela.png)|
 
-|![Print do resultado](./tela.png)|
-
 This is an [Expo](https://expo.dev) criado com [`create-expo-app`](https://www.npmjs.com/package/create-expo-app) para estudar React Native
 
 ## GComo executar
